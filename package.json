@@ -1,0 +1,37 @@
+{
+  "name": "how-to-scrape-58-classifieds",
+  "version": "1.0.0",
+  "description": "58.com scraper and Chinese real estate data extraction API. Extract property sale and rental listings with compound names, CNY prices, and location details from 58.com with this Apify Actor. Font decoding and CAPTCHA solving. Free tier included.",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "apify": "^3.0.0",
+    "crawlee": "^3.0.0",
+    "playwright": "^1.40.0"
+  },
+  "keywords": [
+    "apify",
+    "apify-actor",
+    "58-com",
+    "china-real-estate",
+    "chinese-property",
+    "beijing",
+    "shanghai",
+    "cny",
+    "yuan",
+    "scraper",
+    "api",
+    "web-scraping",
+    "data-extraction",
+    "playwright",
+    "crawler",
+    "real-estate",
+    "property",
+    "rentals"
+  ],
+  "author": "Devansh-365 <devansh@apify.com>",
+  "license": "MIT"
+}

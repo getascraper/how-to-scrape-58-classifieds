@@ -1,0 +1,40 @@
+# llms.txt for how-to-scrape-58-classifieds
+
+## Project Overview
+
+58.com scraper and Chinese real estate data extraction API. Extract property sale and rental listings with compound names, CNY prices, and location details from 58.com with this Apify Actor. Playwright browser automation with font decoding and CAPTCHA solving. Free tier included.
+
+## Repository
+
+- GitHub: https://github.com/getascraper/how-to-scrape-58-classifieds
+- Apify Actor: https://apify.com/getascraper/58-classifieds-scraper
+
+## Key Features
+
+- Extract property sale (ershoufang) and rental (chuzu) listings
+- CNY price normalization and raw price strings
+- Compound names and room layouts
+- Area sizes in square meters
+- Seller profiles: type (private/professional), name
+- Font-face de-obfuscation for encrypted numbers
+- Sliding CAPTCHA solving
+
+## Output Format
+
+JSON with fields: id, url, title, description, price, priceRaw, currency, city, district, neighborhood, compoundName, layout, area, areaRaw, sellerType, sellerName, scrapedAt
+
+## Technology Stack
+
+- TypeScript
+- Playwright (browser automation)
+- Font decoding (.woff obfuscation)
+- CAPTCHA solving
+- ESM modules
+
+## Usage
+
+Requires Apify account and API token. Run via Apify Console or API.
+
+## Support
+
+Open an issue at https://github.com/getascraper/how-to-scrape-58-classifieds/issues

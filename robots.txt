@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /storage/
+Sitemap: https://github.com/getascraper/how-to-scrape-58-classifieds/sitemap.xml
