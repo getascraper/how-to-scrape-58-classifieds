@@ -12,6 +12,8 @@
 
 **Price: $1.99 per 1,000 results**
 
+![screenshot](docs/hero-screenshot.png)
+
 ## What does 58.com Scraper do?
 
 The **58.com Scraper** extracts property listings from **58.com**, China's largest classifieds hub. It covers both major real estate categories:
