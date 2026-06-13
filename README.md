@@ -1,4 +1,4 @@
-# 58.com Scraper | China Real Estate | Apify Actor
+<h1 align="center">58.com Scraper | China Real Estate | Apify Actor</h1>
 
 <p align="center">
   <a href="https://apify.com/getascraper/58-classifieds-scraper"><img src="https://img.shields.io/badge/apify%20actor-ready-green" alt="Apify Actor"></a>
@@ -8,11 +8,17 @@
   <a href="https://apify.com/getascraper/58-classifieds-scraper"><img src="https://img.shields.io/badge/cny%20prices-yuan%20%7C%20monthly-yellow" alt="CNY Prices"></a>
 </p>
 
-**58.com scraper and Chinese real estate data extraction API.** Extract property sale and rental listings with compound names, CNY prices, room layouts, and location details from 58.com with this Apify Actor. Playwright browser automation with font decoding and CAPTCHA solving. Free tier included.
+<p align="center">
+  <strong>58.com scraper and Chinese real estate data extraction API.</strong> Extract property sale and rental listings with compound names, CNY prices, room layouts, and location details from 58.com with this Apify Actor. Playwright browser automation with font decoding and CAPTCHA solving. Free tier included.
+</p>
 
-**Price: $1.99 per 1,000 results**
+<p align="center">
+  <strong>Price: $1.99 per 1,000 results</strong>
+</p>
 
-![screenshot](docs/hero-screenshot.png)
+<p align="center">
+  <img src="docs/hero-screenshot.png" alt="screenshot">
+</p>
 
 ## What does 58.com Scraper do?
 
